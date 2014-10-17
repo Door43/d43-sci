@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sci:home|Door43 (sci)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sci|d43-sci repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sci/archive/master.zip|d43-sci.zip]]
+
+**Recent Changes**
+{{changes>ns = sci}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sci|Ethnologue data]]
+
